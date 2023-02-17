@@ -15,3 +15,6 @@ This program prints the alphabet in lowercase, and then in uppercase.
 4.When I was having that alphabet soup, I never thought that it would pay off
 This program prints the alphabet in lowercase
 
+5.Numbers
+This program prints all single digit numbers of base 10 starting from 0
+
