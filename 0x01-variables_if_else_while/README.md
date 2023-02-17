@@ -27,4 +27,5 @@ This program prints the lowercase alphabet in reverse
 8.Hexadecimal
 This program prints all the numbers of base 16 in lowercase
 
-
+9.Patience, persistence and perspiration make an unbeatable combination for success
+prints all possible combinations of single-digit numbers.
