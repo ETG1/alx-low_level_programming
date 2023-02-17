@@ -18,3 +18,6 @@ This program prints the alphabet in lowercase
 5.Numbers
 This program prints all single digit numbers of base 10 starting from 0
 
+6.Numberz
+This program prints all single digit numbers of base 10 starting from 0.
+
