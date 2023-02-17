@@ -33,3 +33,6 @@ prints all possible combinations of single-digit numbers.
 10.Inventing is a combination of brains and materials. The more brains you use, the less material you need
 This program prints all possible different combinations of two digits.
 
+11.The success combination in business is: Do what you do better... and: do more of what you do...
+this program  prints all possible different combinations of three digits.
+
