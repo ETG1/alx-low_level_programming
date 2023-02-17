@@ -21,3 +21,6 @@ This program prints all single digit numbers of base 10 starting from 0
 6.Numberz
 This program prints all single digit numbers of base 10 starting from 0.
 
+7.Smile in the mirror
+This program prints the lowercase alphabet in reverse
+
