@@ -2,6 +2,9 @@
 
 /**
  * _strncat - concatenate two string
+ * @dest: input value
+ * @src: input value
+ * @n: input value
  * Return: dest
  */
 
